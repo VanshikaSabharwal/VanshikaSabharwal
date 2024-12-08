@@ -3,7 +3,7 @@
 <span style="color:#1E90FF;"><b>🌱 I’m currently learning Various programming languages to expand my skills.</b></span><br>
 <span style="color:#228B22;"><b>⚡ Fun fact I'm not only adept at coding but can write code with lightning speed using just one hand! ⌨️</b></span><br>
 <span style="color:#32CD32;"><b>Building @ko-lab | Contributor @palisadoes | Mastering Full Stack Development & DevOps 🌐</b></span><br>
-<span style="color:#FF6347;"><b>🚀 Dedicated to Open Source Innovation</b></span><br>
+<span style="color:#FF6347;"><b>Dedicated to Open Source Innovation</b></span><br>
 <br> </br>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
