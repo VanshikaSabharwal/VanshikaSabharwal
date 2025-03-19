@@ -11,7 +11,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/vanshika-sabharwal-867237284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshika sabharwal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/--vanshika--/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshika sabharwal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/vanshikasabharw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vanshikasabharw1" height="30" width="40" /></a>
 </p>
 
